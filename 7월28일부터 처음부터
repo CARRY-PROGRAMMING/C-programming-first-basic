@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+	printf("7월13일 약 1년만에 c언어를 다시공부한다.\n");
+	int a;
+	printf("숫자를 입력하시오:");
+	scanf_s("%d", &a);
+	printf("입력한숫자는:%d", a);
+	printf("byby");
+}
